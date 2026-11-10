@@ -1,0 +1,6 @@
+{
+  "name": "ระบบประเมินความพึงพอใจการอบรม & Realtime Dashboard",
+  "description": "ระบบเก็บแบบประเมินความพึงพอใจการฝึกอบรม (Likert Scale 1-5) ตอบผ่านมือถือ แสดงผล Dashboard สดบนจอโปรเจกเตอร์ สแกน QR Code และดาวน์โหลด CSV พร้อมโค้ดแยก 2 ไฟล์และคู่มือ Firebase",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
